@@ -2,6 +2,10 @@
   <div id="app">
     <img src="./assets/logo.png">
     <div>
+      <mixinsUse></mixinsUse>
+      <mixinsUse02></mixinsUse02>
+    </div>
+    <div>
       <router-link to>
         <button @click="$router.back(-1)">返回</button>
       </router-link>
@@ -24,8 +28,15 @@
 </template>
 
 <script>
+import mixinsUse from './components/mixinsUse.vue'
+import mixinsUse02 from './components/mixinsUse02.vue'
+
 export default {
   name: 'App',
+  components: {mixinsUse,mixinsUse02},
+  methods:{
+
+  }
 }
 </script>
 

@@ -28,8 +28,8 @@
 </template>
 
 <script>
-import mixinsUse from './components/mixinsUse.vue'
-import mixinsUse02 from './components/mixinsUse02.vue'
+import mixinsUse from '@/components/mixinsUse.vue'
+import mixinsUse02 from '@/components/mixinsUse02.vue'
 
 export default {
   name: 'App',

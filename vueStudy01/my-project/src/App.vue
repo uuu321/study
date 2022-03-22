@@ -1,6 +1,14 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app">
+    <img alt="Vue logo" src="./assets/logo.png">
+    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <div id="nav">
+      <router-link :to="{name:'HelloWorld'}">indexName</router-link> |
+      <router-link to="/pageNum1">Page1</router-link> |
+      <router-link to="/pageNum2">Page2</router-link>
+    </div>
+    <router-view/>
+  </div>
 </template>
 
 <script>

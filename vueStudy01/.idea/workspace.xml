@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b5786c6-7f42-4361-9b81-96f78d1bb3c3" name="变更" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/../vue/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../vue/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../vue/.idea/modules.xml" afterDir="false" />
@@ -25,6 +26,13 @@
       <change afterPath="$PROJECT_DIR$/../vue/vue.config.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/my-project/src/utils/nprogress.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-project/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-project/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-project/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-project/src/main.js" afterDir="false" />
+>>>>>>> parent of 94d47a9d (commit)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,11 +100,14 @@
       <workItem from="1648542637863" duration="239000" />
       <workItem from="1648690202713" duration="27000" />
       <workItem from="1648883513801" duration="4924000" />
+<<<<<<< HEAD
       <workItem from="1651196486955" duration="12000" />
       <workItem from="1655802057103" duration="42000" />
       <workItem from="1655802250072" duration="1842000" />
       <workItem from="1655865472456" duration="1148000" />
       <workItem from="1655948270647" duration="13000" />
+=======
+>>>>>>> parent of 94d47a9d (commit)
     </task>
     <servers />
   </component>
